@@ -12,4 +12,4 @@
 
 [![reymonr's GitHub stats](https://github-readme-stats.vercel.app/api?username=reymonr&count_private=true&show_icons=true)](https://github.com/reymonr/github-readme-stats)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reymonr&show_icons=true&locale=en&layout=compact" alt="reymonr" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=reymonr&show_icons=true&locale=en" alt="reymonr" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=reymonr&" alt="reymonr" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reymonr&" alt="reymonr" /></p>
